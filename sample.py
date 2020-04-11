@@ -3,7 +3,7 @@ n = 4
 
 
 if n in array:
-    print ("Found")
+    print (n)
 else:
     print("Not found")
     
